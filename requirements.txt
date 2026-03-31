@@ -1,0 +1,19 @@
+# Requirements for Net-BDR (Verified on Python 3.10.12)
+
+# Machine Learning Core
+torch>=2.0.1
+torchvision>=0.15.2
+numpy>=1.24.3
+
+# Image Processing & Metrics
+opencv-python-headless>=4.8.0
+scikit-image>=0.21.0
+Pillow>=10.0.0
+
+# Utilities (From your environment)
+requests==2.32.4
+urllib3==2.5.0
+tqdm==4.67.1
+rich==13.9.4
+pydantic==2.11.7
+matplotlib>=3.7.2
